@@ -1,0 +1,6 @@
+- Include at least 100 objects that move in some way across the canvas.
+ - Each object should have unique characteristics, such as size, speed, colour, and starting position.
+ 
+- Define keyboard controls to add or remove objects from the scene. i.e, pressing the Right Arrow key could add 10 objects
+- Speed Control: Define keyboard controls to adjust the speed of the animation. For example, pressing the Down Arrow key could speed up the objects' movement.
+- Constraints: If you're following the snowflake example, constrain the speed so that the snowflakes don't move upward or too quickly. Apply similar constraints to our own theme for a realistic effect
